@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/progress-checklist/static/css/main.b901a0f0.css",
+    "main.js": "/progress-checklist/static/js/main.9f132d53.js",
+    "index.html": "/progress-checklist/index.html",
+    "main.b901a0f0.css.map": "/progress-checklist/static/css/main.b901a0f0.css.map",
+    "main.9f132d53.js.map": "/progress-checklist/static/js/main.9f132d53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b901a0f0.css",
+    "static/js/main.9f132d53.js"
+  ]
+}
